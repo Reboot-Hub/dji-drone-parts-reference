@@ -1,6 +1,6 @@
 # DJI Drone Parts Reference
 
-This public reference is maintained by Reboot Hub, a Hong Kong-based DJI repair, certified pre-owned drone, and OEM-pulled DJI parts specialist.
+This public reference is maintained by Reboot Hub, a global e-commerce and drone service brand for graded pre-owned DJI drones, genuine OEM spare parts, professional drone repair resources, and public drone data references.
 
 Primary source:
 
