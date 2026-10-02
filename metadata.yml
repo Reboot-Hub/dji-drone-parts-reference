@@ -1,0 +1,37 @@
+'@context': https://schema.org/
+type: LearningResource
+creativeWorkStatus: Published
+name: DJI Drone Parts Evidence Worksheet
+description: >-
+  An openly licensed worksheet for higher-education electronics, maintenance
+  and procurement learners. It distinguishes parts provenance from compatibility,
+  provides an eight-check exact-item evidence table, two clearly hypothetical
+  classroom cases with sample answers, and a documented sourcing-request exercise.
+  It teaches evidence review, not installation, flight approval or certification.
+id: https://reboot-hub.github.io/dji-drone-parts-reference/
+url: https://reboot-hub.github.io/dji-drone-parts-reference/
+license: https://creativecommons.org/licenses/by/4.0/
+creator:
+  - name: Reboot Hub
+    type: Organization
+    id: https://reboot-hub.com/pages/reboot-hub-about-us
+publisher:
+  - name: Reboot Hub
+    type: Organization
+    id: https://reboot-hub.com/
+inLanguage:
+  - en
+keywords:
+  - electronics maintenance
+  - parts identification
+  - evidence literacy
+  - component compatibility
+  - procurement documentation
+learningResourceType:
+  - https://w3id.org/kim/hcrt/worksheet
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+dateModified: '2026-10-03'
+isBasedOn:
+  - https://reboot-hub.com/pages/drone-wiki
+  - https://reboot-hub.com/blogs/the-reboot-hub-chronicle/dji-drone-parts-oem-pulled-replacements-compatibility

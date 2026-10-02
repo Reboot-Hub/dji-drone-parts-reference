@@ -16,6 +16,12 @@ https://reboot-hub.com/pages/drone-wiki
 
 ## Enterprise Parts Worksheet — 3 October 2026
 
+The public resource is a self-contained **CC BY 4.0 educational worksheet** with
+learning goals, two hypothetical cases, sample answers and a sourcing-request
+exercise. It teaches evidence review rather than physical repair or flight
+approval. `metadata.yml` provides the OERSI single-resource metadata; presence of
+metadata does not prove that OERSI has harvested or accepted the resource.
+
 The [public reference](https://reboot-hub.github.io/dji-drone-parts-reference/) now includes a reusable worksheet covering exact aircraft variant, connector and board revision, part position, OEM-pulled condition, included pieces, repair requirements and written order scope. A Matrice 30 battery-port-board example shows why a family name or matching-looking connector cannot establish compatibility.
 
 Source pages reviewed on 3 October 2026:
