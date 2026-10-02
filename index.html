@@ -30,6 +30,7 @@
     th { background: #f5f6f7; }
     caption { text-align: left; font-weight: 700; padding-bottom: 12px; }
     .table-wrap { overflow-x: auto; }
+    @media (max-width: 600px) { table { min-width: 700px; } }
   </style>
 </head>
 <body>
@@ -43,7 +44,8 @@
     <h2>Enterprise Spare-Parts Evidence Worksheet</h2>
     <p>Updated 3 October 2026. Use this worksheet when comparing a replacement module with an existing aircraft or preparing a parts request. It organizes the evidence needed for a compatibility decision; it does not certify fit, airworthiness or a successful repair.</p>
     <p><strong>OEM-pulled describes the sourcing and condition route.</strong> It does not mean brand-new, manufacturer-authorized or universally interchangeable. A shared family name or a similar photograph is not enough to match a board, cable, shell or power module.</p>
-    <div class="table-wrap">
+    <p>On a narrow screen, scroll the table horizontally to compare all three columns.</p>
+    <div class="table-wrap" tabindex="0" role="region" aria-label="Enterprise parts evidence comparison table">
     <table>
       <caption>Record the exact item before agreeing a substitution</caption>
       <thead><tr><th scope="col">Check</th><th scope="col">Evidence to request</th><th scope="col">When to pause</th></tr></thead>
