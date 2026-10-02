@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>DJI Drone Parts Reference | Reboot Hub</title>
-  <meta name="description" content="A public DJI drone parts reference maintained by Reboot Hub, linking DJI model identification, OEM-pulled parts, and repair context.">
+  <meta name="description" content="An evidence worksheet for DJI Enterprise spare parts: aircraft variant, connector, board revision, position, condition, package and written order scope.">
   <meta name="robots" content="index,follow">
   <script type="application/ld+json">
   {
@@ -13,7 +13,8 @@
     "headline": "DJI Drone Parts Reference",
     "author": {"@type": "Organization", "name": "Reboot Hub", "url": "https://reboot-hub.com/"},
     "about": ["DJI drone parts", "OEM-pulled DJI parts", "DJI model identification", "DJI drone repair"],
-    "citation": "https://reboot-hub.com/pages/drone-wiki"
+    "dateModified": "2026-10-03",
+    "citation": ["https://reboot-hub.com/pages/drone-wiki", "https://reboot-hub.com/pages/bulk-purchase-b2b-section", "https://reboot-hub.com/pages/china-sourcing-service"]
   }
   </script>
   <style>
@@ -24,6 +25,11 @@
     a { color: #c91626; font-weight: 700; text-decoration: none; }
     a:hover { text-decoration: underline; }
     header { border-bottom: 1px solid #d9dde3; padding-bottom: 24px; margin-bottom: 30px; }
+    table { width: 100%; border-collapse: collapse; margin: 24px 0; }
+    th, td { border: 1px solid #d9dde3; padding: 12px; text-align: left; vertical-align: top; }
+    th { background: #f5f6f7; }
+    caption { text-align: left; font-weight: 700; padding-bottom: 12px; }
+    .table-wrap { overflow-x: auto; }
   </style>
 </head>
 <body>
@@ -34,6 +40,35 @@
     </header>
     <h2>Primary Source</h2>
     <p><a href="https://reboot-hub.com/pages/drone-wiki">Reboot Hub Drone Wiki</a></p>
+    <h2>Enterprise Spare-Parts Evidence Worksheet</h2>
+    <p>Updated 3 October 2026. Use this worksheet when comparing a replacement module with an existing aircraft or preparing a parts request. It organizes the evidence needed for a compatibility decision; it does not certify fit, airworthiness or a successful repair.</p>
+    <p><strong>OEM-pulled describes the sourcing and condition route.</strong> It does not mean brand-new, manufacturer-authorized or universally interchangeable. A shared family name or a similar photograph is not enough to match a board, cable, shell or power module.</p>
+    <div class="table-wrap">
+    <table>
+      <caption>Record the exact item before agreeing a substitution</caption>
+      <thead><tr><th scope="col">Check</th><th scope="col">Evidence to request</th><th scope="col">When to pause</th></tr></thead>
+      <tbody>
+        <tr><th scope="row">Aircraft identity</th><td>Exact model and variant, plus the component position and the symptom being addressed.</td><td>The quote identifies only a broad family such as Matrice.</td></tr>
+        <tr><th scope="row">Part identity</th><td>Visible part number where present, board revision, both sides of the module, connector layout and mounting points.</td><td>A number is missing, unreadable or inferred from another listing.</td></tr>
+        <tr><th scope="row">Connector and revision</th><td>Compare the actual connector, board markings, cable routing and supported revision with the removed item and relevant documentation.</td><td>The plug appears to fit but the electrical or revision match is unknown.</td></tr>
+        <tr><th scope="row">Position</th><td>Identify left/right, front/rear, motor position or any other orientation explicitly.</td><td>The supplied side or position is not named in writing.</td></tr>
+        <tr><th scope="row">Condition and checks</th><td>Exact supplied-item photos, disclosed damage or rework, and the specific functional checks performed, if any.</td><td>A generic tested claim has no scope or connection to the supplied part.</td></tr>
+        <tr><th scope="row">Included items</th><td>Module, cable, fasteners, covers and other items listed individually.</td><td>Accessories are assumed from a sample photo.</td></tr>
+        <tr><th scope="row">Repair requirements</th><td>Applicable official service instructions and any calibration or pairing requirements reviewed by a competent technician.</td><td>Installation or firmware assumptions substitute for exact-product evidence.</td></tr>
+        <tr><th scope="row">Order record</th><td>Quantity, condition, agreed checks, included pieces, handover point and listing-specific warranty/return terms.</td><td>Commercial or technical scope is unresolved before payment.</td></tr>
+      </tbody>
+    </table>
+    </div>
+    <h3>Worked Example: A Matrice 30 Battery Port Board</h3>
+    <p>A listing titled <a href="https://reboot-hub.com/products/genuine-oem-pulled-dji-matrice-30-battery-port-board-module">DJI Matrice 30 Battery Port Board Module — OEM-pulled</a> identifies a battery-interface module. It does not prove compatibility with a different aircraft or board revision. Compare the removed module with the supplied-item evidence, confirm the connector and board version, and make the package scope explicit. This example identifies a current catalogue route; it does not assert that we tested a particular customer's aircraft. Stock, prices and written terms must be checked at order time.</p>
+    <h3>Prepare a Useful Request</h3>
+    <p>Include the exact model, module position, readable markings, connector photos, required quantity and the unresolved question. Keep private aircraft identifiers and customer information out of public posts. Agree any inspection, testing, documentation and packing scope before procurement begins.</p>
+    <h3>Choose the Correct Handover Route</h3>
+    <ul>
+      <li><a href="https://reboot-hub.com/pages/bulk-purchase-b2b-section">Enterprise B2B supply and repair support</a>: the current service page describes written quotations and Hong Kong or Shenzhen handover for Enterprise orders. The exact order controls included items and support scope.</li>
+      <li><a href="https://reboot-hub.com/pages/china-sourcing-service">China sourcing and procurement</a>: procurement and domestic delivery to a nominated mainland China warehouse. Onward international transport, export arrangements and import charges require a separate written agreement.</li>
+    </ul>
+    <p>Maintained by Reboot Hub, which also supplies parts and services. This is first-party commercial-context education, not an independent endorsement. Reboot Hub is not affiliated with or officially authorized by DJI. Do not use this worksheet to bypass battery protection or to replace the current manufacturer instructions.</p>
     <h2>Related Reboot Hub Pages</h2>
     <ul>
       <li><a href="https://reboot-hub.com/collections/all">DJI drones and parts</a></li>
