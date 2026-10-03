@@ -1,2 +1,2 @@
-# Preserve the exact frozen release bytes used by Kaggle and notebook SHA-256 checks.
-*.csv -text
+# Preserve every frozen release file byte-for-byte, including the manifest inputs.
+* -text
