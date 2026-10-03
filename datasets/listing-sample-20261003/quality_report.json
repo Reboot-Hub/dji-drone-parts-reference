@@ -1,0 +1,37 @@
+{
+  "row_count": 30,
+  "grain": "one supplier product listing per public product_id",
+  "duplicate_ids": 0,
+  "duplicate_urls": 0,
+  "duplicate_normalized_titles": 0,
+  "public_title_http_checks_passed": 30,
+  "empty_condition_phrase": 0,
+  "title_family_counts": {
+    "Mavic": 2,
+    "Other title family": 2,
+    "Air": 2,
+    "Inspire": 5,
+    "Matrice": 5,
+    "Mini": 7,
+    "Goggles": 7
+  },
+  "source_publication_month_counts": {
+    "2026-01": 10,
+    "2026-06": 5,
+    "2026-07": 1,
+    "2026-08": 1,
+    "2026-09": 8,
+    "2026-10": 5
+  },
+  "observed_at": "2026-10-03T18:51:27+08:00",
+  "source_endpoint": "https://reboot-hub.com/collections/spare-part/products.json?limit=30",
+  "collection_response_sha256": "06cb6cabe7f11ab87711f956dcf559d6b6b919b551bcbedc8ff3f982356e6f65",
+  "limitations": [
+    "first 30 source-order records; not random or exhaustive",
+    "one supplier; no independent engineering or authenticity validation",
+    "no inventory, sales, demand, current pricing or cross-model fit fields",
+    "no trend claim from a single observation",
+    "publication dates do not prove launch or sales dates"
+  ],
+  "assessment": "Suitable for bounded title parsing, provenance and duplicate-key exercises; unsuitable as a universal compatibility or market dataset."
+}

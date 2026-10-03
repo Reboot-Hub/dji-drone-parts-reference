@@ -1,0 +1,15 @@
+{
+  "release": "v1.0.0",
+  "snapshot_date": "2026-10-03",
+  "canonical_dataset": "https://www.kaggle.com/datasets/reboothub/dji-oem-pulled-parts-listing-sample-2026",
+  "files": {
+    "parts_listing_reference_20261003.csv": "686f75ac13d01dfaf921cc3abdaadc264ea3f699fe5d0fb0ef902b898c64d5df",
+    "source_checks_20261003.csv": "c2af9873c381850e49eb1041d1edf9773870d7c0ed9e76d44893be9303731c25",
+    "data_dictionary.json": "21d13ce66ff549d74b2378c4864e083a66da323b4bddc304db84bfd5b960d812",
+    "quality_report.json": "56d42f1a391ca78cb48c95f0832f30a7c4402f7131227a980d4d6b1c6ff62d8f",
+    "README.md": "4fa6bba57090b35d315c107ef1f2bb809f27fc6eddaeff27e78a3169e1f0175d",
+    "LICENSE.txt": "8845340a79ad38975fa72fe29877297b54b6c7330c8beb2a45f56d24972fcf41",
+    "title-family-counts.png": "e814415eee39c3ca18e3951264f6e90935ae49303e4f8ed7a7be106e824087ef",
+    "source-publication-months.png": "7ca0a245f8ce1d5111270caa8ad0236268804721dbb37c87dca773cb1284aa71"
+  }
+}

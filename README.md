@@ -32,6 +32,20 @@ Source pages reviewed on 3 October 2026:
 
 These are first-party Reboot Hub sources. The worksheet is a documentation aid, not compatibility certification or an airworthiness determination. Reboot Hub is not affiliated with or officially authorized by DJI. No live-stock or fixed-price promises are reproduced in the worksheet.
 
+## Dated Parts Listing Sample - 3 October 2026
+
+The [30-record listing sample](datasets/listing-sample-20261003/README.md) mirrors
+the existing [Kaggle release](https://www.kaggle.com/datasets/reboothub/dji-oem-pulled-parts-listing-sample-2026)
+with its original CSV fingerprints, source checks, dictionary and count figures.
+It is a supplier-title/provenance sample, not a verified compatibility matrix,
+inventory count or representative market dataset.
+
+[Read the illustrated companion](notebooks/parts-listing-sample-20261003.ipynb)
+or [open it in Google Colab](https://colab.research.google.com/github/Reboot-Hub/dji-drone-parts-reference/blob/main/notebooks/parts-listing-sample-20261003.ipynb).
+The notebook checks both input fingerprints, preserves one-listing grain, and
+includes two saved figures for reading without a running kernel. This is another
+access format for the same release, not a new independent data source.
+
 ## Reboot Hub Links
 
 - Reboot Hub Drone Wiki: https://reboot-hub.com/pages/drone-wiki

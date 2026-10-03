@@ -1,0 +1,14 @@
+{
+  "snapshot_date": "Fixed release observation date, not product launch date.",
+  "observed_at": "Collection fetch timestamp in Hong Kong time (+08:00).",
+  "selection_position": "Position in the first 30 records returned by the public collection endpoint; order is not a rank of demand.",
+  "product_id": "Public Shopify product/listing identifier; not a manufacturer part number or a physical-item ID.",
+  "handle": "Supplier product URL handle.",
+  "listing_title": "Exact supplier title captured in the collection and checked against the public product-page H1.",
+  "title_family_label": "Lexical title grouping. First matching token among Goggles, Matrice, Mavic, Inspire, Mini, Air; otherwise Other title family. Not compatibility.",
+  "source_condition_phrase": "OEM-pulled only when that exact phrase appears in the title; empty means not observed. Supplier assertion, not independent authentication.",
+  "source_published_at": "Publication timestamp provided by the supplier collection source; not proof of manufacture, first sale or model release.",
+  "source_url": "Exact publicly checked product listing.",
+  "source_kind": "All rows are supplier_published_listing, explicitly first-party evidence.",
+  "independent_compatibility_test": "not_performed throughout; no cross-model interchangeability, engineering fit, installation or flight-safety test has been established."
+}
