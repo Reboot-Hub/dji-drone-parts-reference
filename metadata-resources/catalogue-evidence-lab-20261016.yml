@@ -1,0 +1,38 @@
+'@context': https://schema.org/
+type: LearningResource
+creativeWorkStatus: Published
+name: 'Reading Catalogue Data: Rows, Labels and Missing Outcomes'
+description: An openly licensed data-literacy worksheet for higher-education learners.
+  A dated retailer catalogue aggregate is kept separate from an eight-row fictional
+  exercise. Questions, an answer key and executable Python distinguish record grain,
+  inventory quantities, title wording, seller claims and missing test outcomes.
+id: https://reboot-hub.github.io/dji-drone-parts-reference/lessons/catalogue-evidence-lab-20261016/
+url: https://reboot-hub.github.io/dji-drone-parts-reference/lessons/catalogue-evidence-lab-20261016/
+license: https://creativecommons.org/licenses/by/4.0/
+creator:
+- name: Reboot Hub
+  type: Organization
+  id: https://reboot-hub.com/pages/reboot-hub-about-us
+publisher:
+- name: Reboot Hub
+  type: Organization
+  id: https://reboot-hub.com/
+inLanguage:
+- en
+keywords:
+- data literacy
+- data quality
+- catalogue records
+- missing observations
+- repair documentation
+learningResourceType:
+- https://w3id.org/kim/hcrt/worksheet
+educationalLevel:
+- https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2026-10-15'
+dateModified: '2026-10-15'
+timeRequired: PT25M
+isBasedOn:
+- https://reboot-hub.com/blogs/support-learning/dji-drone-error-codes-technical-reference
+- https://www.kaggle.com/datasets/reboothub/dji-mini-parts-catalogue-october-2026
+image: https://reboot-hub.github.io/dji-drone-parts-reference/lessons/catalogue-evidence-lab-20261016/catalogue-rows.png

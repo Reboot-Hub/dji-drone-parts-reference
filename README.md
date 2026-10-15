@@ -87,3 +87,7 @@ explains what to confirm before ordering. Browse the
 or use the [repair enquiry form](https://reboot-hub.com/pages/repair-ticket).
 The downloadable record is copyright Reboot Hub, all rights reserved. The existing
 public reference page's educational licence is unchanged.
+
+## Catalogue Evidence Lab - October 2026
+
+Read the [data-literacy worksheet](https://reboot-hub.github.io/dji-drone-parts-reference/lessons/catalogue-evidence-lab-20261016/) with a dated aggregate figure, a clearly fictional eight-row exercise, answer key and self-contained Python notebook. It separates listing rows from stock units, seller wording from observations, and missing values from zero. The new lesson directory's original text, code, figure and fixture are CC BY 4.0; linked catalogue data and other repository materials retain their existing rights. OERSI discovery metadata describes two distinct resources with the original worksheet identity preserved; metadata does not prove index admission.
