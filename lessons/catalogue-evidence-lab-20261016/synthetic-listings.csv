@@ -1,0 +1,9 @@
+sample_id,model_family,item_title,declared_condition,stock_quantity,test_outcome
+S01,Example A,Front left arm,used,,
+S02,Example A,Front right arm,used,,
+S03,Example A,Board - faulty,faulty,,
+S04,Example B,Motor module,used,,
+S05,Example B,Controller cable,open-box,,
+S06,Example B,Camera assembly - faulty,faulty,,
+S07,Example C,Board with cable,used,,
+S08,Example C,Board only,used,,
