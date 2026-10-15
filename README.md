@@ -71,3 +71,19 @@ compatibility, or a most-complete-market claim. This is another access format fo
 the [dated Kaggle catalogue](https://www.kaggle.com/datasets/reboothub/dji-mini-parts-catalogue-october-2026),
 not an independent second data source. This new companion and its data retain
 Reboot Hub copyright; the existing educational worksheet's licence is unchanged.
+
+## Parts Replacement and Maintenance Record - 16 October 2026
+
+Download the [three-page printable record](worksheets/dji-parts-maintenance-record-20261016.pdf) for device and source details,
+original/replacement component identity, work scope, findings and follow-up.
+It is a blank documentation aid for owners and repair shops. Record the actual
+model, component markings, included pieces and checks performed; use instructions
+that apply to the exact model. It does not prescribe a universal maintenance
+interval or certify compatibility, workmanship or flight readiness.
+
+The [parts and accessories buying guide](https://reboot-hub.com/pages/dji-parts-accessories-buying-guide)
+explains what to confirm before ordering. Browse the
+[parts catalogue](https://reboot-hub.com/collections/spare-part) for item-level details
+or use the [repair enquiry form](https://reboot-hub.com/pages/repair-ticket).
+The downloadable record is copyright Reboot Hub, all rights reserved. The existing
+public reference page's educational licence is unchanged.
