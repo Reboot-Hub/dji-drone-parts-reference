@@ -56,3 +56,18 @@ access format for the same release, not a new independent data source.
 
 Reboot Hub Drone Wiki. Reboot Hub DJI drone model and parts reference. https://reboot-hub.com/pages/drone-wiki
 
+
+## Mini-series Catalogue Companion - 15 October 2026
+
+Read the [illustrated catalogue audit](notebooks/mini-parts-catalogue-audit-20261015.ipynb)
+or [open it in Google Colab](https://colab.research.google.com/github/Reboot-Hub/dji-drone-parts-reference/blob/main/notebooks/mini-parts-catalogue-audit-20261015.ipynb).
+It checks the immutable 174-record Mini-series snapshot, plots model counts and
+flags model-specific naming details such as position, included assemblies and
+disclosed faults. Both figures are saved in the notebook.
+
+The companion points readers to the [DJI Mini parts catalogue](https://reboot-hub.com/collections/dji-mini-series-spare-parts)
+for item-level information. Listing counts are not inventory quantities, universal
+compatibility, or a most-complete-market claim. This is another access format for
+the [dated Kaggle catalogue](https://www.kaggle.com/datasets/reboothub/dji-mini-parts-catalogue-october-2026),
+not an independent second data source. This new companion and its data retain
+Reboot Hub copyright; the existing educational worksheet's licence is unchanged.
